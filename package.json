@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com:sgoff0/github-actions-jwt-generator.git"
+    "url": "git://github.com:herculesjr/github-actions-jwt-generator.git"
   },
   "keywords": [
     "actions",
@@ -24,7 +24,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.2.5",
+    "@actions/core": "^1.10.0",
     "jsonwebtoken": "^8.5.1"
   },
   "devDependencies": {
