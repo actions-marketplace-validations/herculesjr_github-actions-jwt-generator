@@ -1,4 +1,4 @@
-name: 'JWT Generator with options'
+name: 'JWT Generator with options (Node16)'
 description: 'Generate JWT tokens (JSON Web Tokens)'
 author: 'herculesjr'
 inputs:
